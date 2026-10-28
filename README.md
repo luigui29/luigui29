@@ -1,6 +1,7 @@
 ## Hello world! | ¡Hola mundo! 👋
 
-Soy Luis Garrido.  Prueba prueba
+Soy Luis Garrido.  
+Prueba prueba
 <!--
 **luigui29/luigui29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
