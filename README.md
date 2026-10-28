@@ -1,7 +1,7 @@
-## Hello world! | ¡Hola mundo! 👋
+## Hello world! | ¡Hola mundo! 🇻🇪 🇨🇱
 
-Soy Luis Garrido.  
-Prueba prueba
+Associate´s Degree in Information Technology. I first started learning programming through Khan Academy in 2019, and throughout the years I have touched on different technologies. Currently I have established myself as a Full Stack Web Developer. My latest project was an internship as a developer for an equipment maintenance system. I'm exploring job opportunities to further my career while I become a graduate engineer. In my github page, you will find repositories where I try out projects that help me strengthen my skills and keep my passion for tech alive. If you are interested in communicating with me, please check out my links. 
+
 <!--
 **luigui29/luigui29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
